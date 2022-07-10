@@ -12,3 +12,6 @@
 
 18-6 multiple ways to get and set object property
 
+18-7 (optional) Javascript switch case break and default
+
+
