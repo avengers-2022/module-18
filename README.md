@@ -14,4 +14,5 @@
 
 18-7 (optional) Javascript switch case break and default
 
+18-8 (advanced) while and for loop break and continue
 
