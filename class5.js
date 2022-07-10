@@ -1,11 +1,15 @@
-var computer = {
-    price: 29000,
-    storage: '250gb',
-    processor: 'i3 7th gen',
-    color: 'silver'
+var students = {
+    id: 101,
+    name: 'Ariful Islam',
+    marks: 82,
+    phone: '01515601413'
 }
 
-computer.ram = '4gb + 4gb'
-computer.storage = 'HDD-1TB + SSD-250GB'
+var mobile = {
+    color: 'black',
+    price: 10990,
+    storage: '4gb 64gb'
+}
 
-console.log(computer);
+console.log("Students Info", students);
+console.log("Mobile Info", mobile);
