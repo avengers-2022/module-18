@@ -7,3 +7,6 @@
 18-3 (advanced) Function parameter, function return
 
 18-4 (advanced) Multiple parameter add, multiplication, etc
+
+18-6 multiple ways to get and set object property
+
